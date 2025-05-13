@@ -1,3 +1,4 @@
 node_modules/
 todo-service/package-lock.json
 todo-service/package.json
+.env
